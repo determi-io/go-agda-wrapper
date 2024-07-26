@@ -1,3 +1,3 @@
-module determi.io/go-agda-wrapper
+module github.com/determi-io/go-agda-wrapper
 
 go 1.17
